@@ -1,0 +1,1 @@
+print("brumble west je op proti bruiserům")
